@@ -1,0 +1,109 @@
+#title {
+    text-align: center;
+    font-family: Garamond, Arial;
+    margin-top:20px;
+}
+
+#img-div {
+    margin-top: 25px;
+}
+
+#image {
+   max-width: 100%;
+   width: 50%;
+   max-height: 100%;
+   height: auto;
+   display: block;
+   margin: auto;
+   border-radius: 50%;
+   border:2px solid black;
+   box-shadow: 8px 8px 5px #b5b5b5;
+}
+
+/* properties of image caption */
+#img-caption {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Georgia, Arial;
+}
+/*properties of text-info*/
+#tribute-info {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* properties of h3 */
+h3 {
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: Garamond, Arial;
+}
+/* properties of p */
+p {
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: Georgia, Arial;
+}
+
+#title1 {
+    margin-top: 15px;
+    margin-bottom: 13px;
+}
+
+#subtxt1 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#title2 {
+    margin-top: 20px;
+    margin-bottom: 13px;
+}
+
+#subtxt2 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#title3 {
+    margin-top: 20px;
+    margin-bottom: 13px;
+}
+
+#subtxt3 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#links {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr {
+    height: 2px;
+    background: black;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    font-family: Garamond, Arial;
+}
+
+body {
+    background-color: caf7e3;
+    border-style: solid;
+    border-width: 10px;
+    /* border-radius: 10px; */
+    outline-style: solid;
+    outline-width: 200px;
+}
